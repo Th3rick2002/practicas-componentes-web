@@ -23,6 +23,11 @@ section{
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
+span{
+    font-style: italic;
+    color: #7f8c8d;
+}
+
 .destacado{
     color: #2980b9;
     font-weight: bold;
